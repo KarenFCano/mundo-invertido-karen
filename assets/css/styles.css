@@ -469,3 +469,16 @@ footer::after {
   right: -50px;
   transform: rotateZ(10deg);
 }
+
+#link-footer {
+  font-size: 1.8em;
+  margin-bottom: 0.8em;
+}
+
+footer a:hover {
+  background: rgb(186, 14, 14);
+  color:rgb(255, 255, 255);
+  display: block;
+  font-size:1.5em;
+  text-decoration: none;
+}
