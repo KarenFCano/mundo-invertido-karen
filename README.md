@@ -31,11 +31,11 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
 - [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
-## 🌎 Nossas redes sociais
+## 🌎 Minhas redes sociais
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/94489767?v=4"/>
     <p>&nbsp&nbsp&nbspKaren Cano<br>
-    href="https://github.com/KarenFCano">GitHub</a>
+    &nbsp;|&nbsp;<a>href="https://github.com/KarenFCano">GitHub</a>
     &nbsp;|&nbsp;<a href="https://www.linkedin.com/in/karen-cano/">LinkedIn</a>
 </p>
 
