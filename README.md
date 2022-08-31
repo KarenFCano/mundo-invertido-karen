@@ -33,8 +33,9 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
 ## 🌎 Nossas redes sociais
 <p>
-    <img align=left margin=10 width=80 src="hhttps://avatars.githubusercontent.com/u/94489767?v=4"/>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/94489767?v=4"/>
     <p>&nbsp&nbsp&nbspKaren Cano<br>
-    href="https://github.com/KarenFCano">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/karen-cano/">LinkedIn</a>
+    href="https://github.com/KarenFCano">GitHub</a>
+    &nbsp;|&nbsp;<a href="https://www.linkedin.com/in/karen-cano/">LinkedIn</a>
 </p>
-</p>
+
