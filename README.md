@@ -24,7 +24,6 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
     - Introdução ao Firebase
     - Integração com o Firebase
 
-```
 ## 🔗 Links auxiliares
 
 - [W3C - World Wide Web Consortium](http://w3c.org)
