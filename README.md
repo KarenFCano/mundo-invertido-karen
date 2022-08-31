@@ -34,8 +34,8 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 ## 🌎 Minhas redes sociais
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/94489767?v=4"/>
-    <p>&nbsp&nbsp&nbspKaren Cano</p>
-    &nbsp;|&nbsp;<a href="https://github.com/KarenFCano">GitHub</a>
+    <p>&nbsp&nbsp&nbspKaren Cano<p>
+    <a>href="https://github.com/KarenFCano">GitHub</a>
     &nbsp;|&nbsp;<a href="https://www.linkedin.com/in/karen-cano/">LinkedIn</a>
 </p>
 
